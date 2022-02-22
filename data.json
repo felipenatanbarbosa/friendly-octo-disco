@@ -1,0 +1,4 @@
+{
+    "vertices": ["AC", "AL", "AP", "AM", "BA", "CE", "ES", "GO", "MA", "MT", "MS", "MG", "PA", "PR", "PB", "PE", "PI", "RJ", "RN", "RS", "RO", "RR", "SC", "SP", "SE", "TO", "DF"],
+    "edges": ["AM-AC", "AM-RO", "AM-MT", "AM-PA", "AM-RR", "PA-RR", "PA-AP", "PA-MT", "PA-MA", "PA-TO", "MT-RO", "MT-TO", "MT-GO", "MT-MS", "MA-PI", "MA-TO", "TO-BA", "TO-GO", "GO-MG", "GO-MS", "MS-SP", "MS-PR", "PI-CE", "PI-PE", "PI-BA", "BA-PE", "BA-SE", "BA-AL", "BA-MG", "BA-GO", "BA-TO", "BA-ES", "MG-ES", "MG-RJ", "MG-SP", "SP-PR", "SP-RJ", "PR-SC", "RS-SC", "CE-RN", "CE-PB", "CE-PE", "RN-PB", "PB-PE", "PE-PI", "PE-AL", "AL-SE", "DF-GO", "DF-MG", "MG-MS", "PI-TO", "AC-RO", "RJ-ES"]
+}
